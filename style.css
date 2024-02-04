@@ -1,0 +1,60 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #3498db;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+header img {
+    max-width: 100px;
+}
+
+.functionality {
+    padding: 20px;
+}
+
+.functionality h2 {
+    color: #333
+}
+
+.functionality ul {
+    list-style: none;
+    padding: 0;
+}
+
+.functionality li {
+    margin-bottom: 10px;
+}
+
+.telegram-link {
+    background-color: #2ecc71;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+.telegram-link a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.changeColorButton {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.changeColorButton:hover {
+    background-color: #45a049;
+}
